@@ -1,0 +1,19 @@
+Input:
+Sequence 1: ACGTGCA
+Sequence 2: ACGCA
+
+Expected Output for Version 1 (default values):
+Aligned Sequence 1: ACGTGCA
+Aligned Sequence 2: ACG--CA
+Length: 7
+Identity: 5/7 (71.43%)
+Gaps: 2/7 (28.57%)
+Score: 3 (assuming match = 1, mismatch = -1)
+
+Expected Output for Version 2 (default values):
+Aligned Sequence 1: ACGTGCA
+Aligned Sequence 2: AC--GCA
+Length: 7
+Identity: 5/7 (71.43%)
+Gaps: 2/7 (28.57%)
+Score: 14.5

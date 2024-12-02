@@ -1,0 +1,13 @@
+Input:
+Sequence 1: ACTG
+Sequence 2: ACTG
+=================
+Expected Output for Option 1 and Option 2 (default values):
+Aligned Sequence 1: ACTG
+Aligned Sequence 2: ACTG
+Length: 4
+Identity: 4/4 (100%)
+Gaps: 0/4 (0%)
+Score: 4 (assuming match = 1, mismatch = -1, gap penalties = -1)
+
+
